@@ -1,0 +1,7 @@
+<div class="container">
+    <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a64bb2ba-a44b-4b89-9313-5f73d4356bbd/d9a0onj-f68a49ca-0c80-4ae8-a68d-8c93f60c9afc.jpg/v1/fill/w_923,h_866,q_70,strp/one_piece_800___monkey_d__luffy_by_jecamage_d9a0onj-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvYTY0YmIyYmEtYTQ0Yi00Yjg5LTkzMTMtNWY3M2Q0MzU2YmJkXC9kOWEwb25qLWY2OGE0OWNhLTBjODAtNGFlOC1hNjhkLThjOTNmNjBjOWFmYy5qcGciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ZFGF1AE7kXcBZjtuzX5N_kma3f8BqE8x9ADAsqG3J-U" alt="Developer Photo's" class="shadow-lg">
+    <h2 class="text-center display-5">@anggi.alfian</h2>
+    <p class="w-50 text-center d-block m-auto">
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita sit quo asperiores vel, pariatur consequatur omnis nesciunt repudiandae! Sit numquam tenetur aperiam magni, et illum vel nostrum adipisci aspernatur amet minus eius dolor harum quisquam provident asperiores assumenda iste natus laudantium mollitia pariatur. Obcaecati, excepturi in. In natus dolor ipsum!
+    </p>
+</div>
